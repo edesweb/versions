@@ -2,12 +2,21 @@
 
 ## [Unreleased]
 
-    - Checkbox con 0/1
     - Sublistas de hasta 50.000 registros
     - Minieditor de ayudas desde el editor
     - Desde el desktop buscador de opciones/script en función de su título
     - Exportación a formato pdf
     - Log de últimas descargas
+
+## [2023-05-16]
+
+### Added
+
+    - Se puede definir los dos valores del checkbox
+
+### Fixed
+
+    -Subsanado un problema de javascript con campos con nombre "name"
 
 ## [2023-05-07]
 
