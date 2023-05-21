@@ -3,10 +3,21 @@
 ## [Unreleased]
 
     - Sublistas de hasta 50.000 registros
-    - Minieditor de ayudas desde el editor
     - Desde el desktop buscador de opciones/script en función de su título
     - Exportación a formato pdf
     - Log de últimas descargas
+
+## [2023-05-21]
+
+### Added
+
+    - Minieditor de [Language] desde el editor con F2
+    - Utilidad de tracear el valor de fields y attributes, con posibilidad de hacer debug
+    - Las sublistas se pueden ordenar haciendo click en el th
+
+### Fixed
+
+    - Solucionado un error al grabar desde el editor cuando estaba customizado los checkbox
 
 ## [2023-05-16]
 
