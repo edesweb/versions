@@ -3,21 +3,21 @@
 ## [Unreleased]
 
     - Sublistas de hasta 50.000 registros
-    - Desde el desktop buscador de opciones/script en función de su título
-    - Exportación a formato pdf
-    - Log de últimas descargas
+    - Desde el desktop habilitar un buscador de opciones/script en funciÃ³n de su tÃ­tulo
+    - ExportaciÃ³n a formato pdf con tcpdf en versiÃ³n php8
+    - Log de Ãºltimas descargas
 
 ## [2023-05-21]
 
 ### Added
 
-    - Minieditor de [Language] desde el editor con F2
+    - Minieditor de [Language] desde el editor pulsando la tecla F2
     - Utilidad de tracear el valor de fields y attributes, con posibilidad de hacer debug
-    - Las sublistas se pueden ordenar haciendo click en el th
+    - Las sublistas se pueden ordenar haciendo click en el TH
 
 ### Fixed
 
-    - Solucionado un error al grabar desde el editor cuando estaba customizado los checkbox
+    - Solucionado un error al grabar desde el editor cuando se estaba customizado los checkbox
 
 ## [2023-05-16]
 
@@ -33,17 +33,17 @@
 
 ### Added
 
-    - La etiqueta [RelationSubList] soporta nombres de campos distintos del padre y del hijo, así como una función de usuario
+    - La etiqueta [RelationSubList] soporta nombres de campos distintos del padre y del hijo, asÃ­ como una funciÃ³n de usuario
     - Nueva clase streamerClient() para enviar mensajes desde el servidor al cliente
-    - Select y subselect con tablas del motor en un diccionario independiente
+    - Select y subselect con tablas del engine en un diccionario independiente
 
 ### Fixed
 
-    - Solucionado la perdida de sesión
-    - Solucionado la creación de sesión con crc erroneo
-    - Solucionado la visualización de varios {Tab} consecutivos
-    - Idioma base distinto del español
-    - Eliminado un pixel de separación entre los tab
+    - Solucionado la perdida de sesiÃ³n
+    - Solucionado la creaciÃ³n de sesiÃ³n con crc erroneo
+    - Solucionado la visualizaciÃ³n de varios {Tab} consecutivos
+    - Idioma base distinto del castellano
+    - Eliminado un pixel de separaciÃ³n entre los tab
 
 ### Changed
 ### Removed
@@ -53,30 +53,30 @@
 
 ### Added
 
-    - Opción de poder poner todas las tablas del motor en un database independiente
-    - Filtro dinámico de opciones desde el desktop
+    - OpciÃ³n para crear las tablas del engine en un database independiente
+    - Filtro dinÃ¡mico de opciones desde el desktop
     - Vista previa en las opciones del desktop
     - Opciones favoritas
-    - Opción de comprimir/expandir cabecera del desktop
-    - Opción de fijar o no el menú de opciones del desktop
-    - Desde las Migas se puede ver y ejecutar el submenú donde está incluido la opción actual
+    - OpciÃ³n de comprimir/expandir cabecera del desktop
+    - OpciÃ³n de fijar o no el menÃº de opciones del desktop
+    - Desde las Migas se puede ver y ejecutar el submenÃº donde estÃ¡ incluido la opciÃ³n actual
     - Desde el login en el caso de ser el servidor de desarrollo se puede memorizar el login y el password
-    - Opción en el editor de abrir la ayuda en un tab nuevo
-    - Los select y subselect en los modos de consulta y confirmar la baja puedes llevar o no tolas las opciones
-    - Incorporación en el editor de una etiqueta para usar Mermaid
-    - Incorporación en la ventana de selección de icono para las opciones de un buscador interactivo, así como una columna de preselección y otra de los iconos usados en el árbol de opciones
+    - OpciÃ³n en el editor de abrir la ayuda en un tab nuevo
+    - Los select y subselect en los modos de consulta y confirmar la baja puedes llevar a todas las opciones
+    - IncorporaciÃ³n en el editor de una etiqueta para usar Mermaid
+    - IncorporaciÃ³n en la ventana de selecciÃ³n de icono para las opciones de un buscador interactivo, asÃ­ como una columna de preselecciÃ³n y otra de los iconos usados en el Ã¡rbol de opciones
     - Crear app desde la linea de comandos
     - Login en dos pasos
 
 ### Fixed
 
-    - Solucionado un error en la grabación de los usuarios de desarrollo
+    - Solucionado errores en la grabaciÃ³n de los usuarios de desarrollo
     
 ### Changed
 
     - Mejorada la seguridad en el login
-    - Eliminación del uso de cookies
-    - Se ha cambiado las variables de sesión por la clase SESS
-    - Se ha cambiado las variables de configuración por la clase SETUP
+    - EliminaciÃ³n del uso de cookies
+    - Se ha cambiado las variables de sesiÃ³n por la clase SESS
+    - Se ha cambiado las variables de configuraciÃ³n por la clase SETUP
 
 ### Removed
