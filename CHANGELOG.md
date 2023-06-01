@@ -7,6 +7,18 @@
     - Exportación a formato pdf con tcpdf en versión php8
     - Log de últimas descargas
 
+## [2023-06-01]
+
+### Added
+
+    - Nueva funcionalidad para refrescar una SubList con eSubListRefresh()
+    - Opción para tener una fuente de iconos propios
+
+### Fixed
+
+    - Solucionado el problema exporádico de perder la sesión nada mas entrar, cuando es la primera entrada del dia
+    - Validez de la cookie en horas
+    
 ## [2023-05-21]
 
 ### Added
