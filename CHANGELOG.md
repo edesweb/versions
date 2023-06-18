@@ -4,8 +4,19 @@
 
     - Sublistas de hasta 50.000 registros
     - Desde el desktop habilitar un buscador de opciones/script en función de su título
-    - Exportación a formato pdf con tcpdf en versión php8
     - Log de últimas descargas
+    - Ejecución de múltiples llamadas en segundo plano
+
+## [2023-06-18]
+
+### Added
+
+    - Nueva etiqueta [Target] para condicionar la salida en función del número de registros
+
+### Fixed
+
+    - Exportación a formato pdf con tcpdf en versión php8
+    - Formatos de exportación
 
 ## [2023-06-10]
 
