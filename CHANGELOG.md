@@ -6,6 +6,13 @@
     - Desde el desktop habilitar un buscador de opciones/script en función de su título
     - Log de últimas descargas
     - Ejecución de múltiples llamadas en segundo plano
+    
+## [2023-06-20]
+
+### Fixed
+
+    - Gestión de usuarios
+    - Mejoras en el desktop
 
 ## [2023-06-18]
 
