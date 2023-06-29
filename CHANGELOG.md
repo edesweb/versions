@@ -6,7 +6,18 @@
     - Desde el desktop habilitar un buscador de opciones/script en función de su título
     - Log de últimas descargas
     - Ejecución de múltiples llamadas en segundo plano
-    
+
+## [2023-06-29]
+
+### Added
+
+    - Nueva prestación desde el desktop de opciones en cascada de culquier opción mediante la pulsación de [command/window+click]
+
+### Fixed
+
+    - En los listados error al marcar columna de ordenación
+    - Quitado el icono de Modo subWindow en listados directos
+
 ## [2023-06-20]
 
 ### Fixed
