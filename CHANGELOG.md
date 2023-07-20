@@ -4,8 +4,22 @@
 
     - Sublistas de hasta 50.000 registros
     - Desde el desktop habilitar un buscador de opciones/script en función de su título
-    - Log de últimas descargas
-    - Ejecución de múltiples llamadas en segundo plano
+    - Loaders
+ 
+## [2023-07-20]
+
+### Added
+
+    - Icono desde el desktop para el acceso a las últimas descargas y acceder a los procesos ejecutados en segundo plano, la ventana se llama "Download center"
+    - Método estático S::multiplePage() para poder ejecutar/conmutar entre multiples páginas
+    - Ejecución de múltiples llamadas en segundo plano mediante el metodo S::runBackground()
+    - Las fichas de consulta ejecutadas en la ventana de trabajo se podrán ejecutar en segundo plano desde el submenú 
+    - Las fichas de consulta ejecutadas en la ventana de trabajo se podrán ejecutar directamente como exportación desde el submenú 
+
+### Fixed
+
+    - Nuevo algoritmo en el desktop para avisar que la sessión caduca
+    - grupo de fichas cuando los tag {Z} y {tab} estan consecutivos
 
 ## [2023-06-29]
 
