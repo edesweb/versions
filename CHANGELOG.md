@@ -5,7 +5,15 @@
     - Sublistas de hasta 50.000 registros
     - Desde el desktop habilitar un buscador de opciones/script en función de su título
     - Loaders
- 
+
+
+## [2023-07-24]
+
+### Fixed
+
+    - Tamaño de objetos
+
+
 ## [2023-07-20]
 
 ### Added
