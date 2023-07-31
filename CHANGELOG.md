@@ -7,6 +7,15 @@
     - Loaders
 
 
+## [2023-08-]
+
+### Added
+
+    - Implementación de subida de ficheros de forma asincrona
+
+### Fixed
+
+
 ## [2023-07-24]
 
 ### Fixed
