@@ -7,13 +7,17 @@
     - Loaders
 
 
-## [2023-08-]
+## [2023-08-04]
 
 ### Added
 
     - Implementación de subida de ficheros de forma asincrona
+    - Opción de poder borrar una entrada de idioma desde el formulario
 
 ### Fixed
+
+    - Corregido error al abrir editores que ya estaban abiertos
+    - Al localizar el fichero de idiomas para las condiciones
 
 
 ## [2023-07-24]
