@@ -7,6 +7,21 @@
     - Loaders
 
 
+## [2023-08-07]
+
+### Added
+
+    - Se puede cambiar de SubTab con la rueda del ratón
+    - Se controla el cierre de sessión directa en los casos de upload en background sin terminar
+
+### Fixed
+
+    - Upload de ficheros en background en modo modificación
+    - Tipo de dato number en la clase badge y badgeAsync
+    - Se ha modificado el atributo "e-asynchronos" por "e-async"
+    - Se han añadido casos de uso a SYS::removeRem()
+
+
 ## [2023-08-04]
 
 ### Added
