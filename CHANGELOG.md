@@ -2,9 +2,26 @@
 
 ## [Unreleased]
 
-    - Sublistas de hasta 50.000 registros
+    - Listados y Sublistas de hasta 50.000 registros
     - Desde el desktop habilitar un buscador de opciones/script en función de su título
     - Loaders
+
+
+## [2023-08-]
+
+### Added
+
+    - Nueva variable de configuración "InactivityMaxLife" para bloquear el sistema si hay un periodo de inactividad determinado.
+    - Desde gsShell se puede hacer un preview de imagenes y svg
+
+### Fixed
+
+    - Label [Header]
+    - Label [THColSpan] en la salida a pdf
+ 
+### Removed
+
+    - Todo lo relacionado con las tablas gs_pc y gs_pc_inventory
 
 
 ## [2023-08-07]
