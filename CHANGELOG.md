@@ -7,7 +7,7 @@
     - Loaders
 
 
-## [2023-08-]
+## [2023-09-10]
 
 ### Added
 
@@ -18,7 +18,9 @@
 
     - Label [Header]
     - Label [THColSpan] en la salida a pdf
- 
+    - Espaciado en los listados
+    - Al conmutar la selección de registro en la ventana actual o en subventana se hace directamente desde el menú
+    
 ### Removed
 
     - Todo lo relacionado con las tablas gs_pc y gs_pc_inventory
