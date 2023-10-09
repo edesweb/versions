@@ -7,6 +7,27 @@
     - Loaders
 
 
+## [2023-10-09]
+
+### Added
+
+    - En [UploadFile] asynchronous se ha añadido el parámetro nombre de fichero en la llamada al script del usuario, así como la incorporación de la etiqueta [DB] si la tabla está en otro diccionario.
+
+
+## [2023-10-08]
+
+### Added
+
+    - Los desarrolladores pueden memorizar el login y password en el icono de ver el password
+    - Al descargar ficheros de forma asincrona ejecutar un fichero de usuario al terminar
+    - Browser de mas de 50.000 registros con búsqueda interactiva
+
+### Fixed
+
+    - Download desde el editor
+    - Arreglado un error al grabar ficheros editados desde la shell del editor
+
+
 ## [2023-09-10]
 
 ### Added
