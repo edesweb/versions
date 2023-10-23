@@ -7,6 +7,14 @@
     - Loaders
 
 
+## [2023-10-23]
+
+### Added
+
+    - Parametro de configuración para que memorice el login.
+    - Nueva etiqueta [Preview]
+
+
 ## [2023-10-09]
 
 ### Added
