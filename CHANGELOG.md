@@ -7,6 +7,14 @@
     - Loaders
 
 
+## [2023-10-29]
+
+### Added
+
+    - Se ha añadido a la etiqueta "{sfFormat}" código multilinea para poder definir el aspecto de cada tr y td de la sublist.
+    - En las sublist se puede configurar la fila de totales siempre visible
+
+
 ## [2023-10-23]
 
 ### Added
