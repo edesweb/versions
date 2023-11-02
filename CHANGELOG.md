@@ -7,6 +7,18 @@
     - Loaders
 
 
+## [2023-11-02]
+
+### Added
+
+    - El nombre del campo de relacion en una iSubList puede ser diferente.
+    - Las columnas de los listados al definir un ancho máximo si el texto lo sobrepasa cortará el texto poniendo unos puntos suspensivos.
+
+### Fixed
+
+    - Visualizar los botones de avance y retroceso de página de las iSubList al cargar la ficha.
+
+
 ## [2023-10-29]
 
 ### Added
