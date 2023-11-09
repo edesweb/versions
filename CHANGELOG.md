@@ -7,6 +7,16 @@
     - Loaders
 
 
+## [2023-11-09]
+
+### Added
+
+    - Se ha añadido en los select [SelectMultiple] la posibilidad de condicionar el tamaño de la zona de elementos
+    seleccionados.
+    - Se ha añadido en los select que mediante un atributo el listado de opciones a seleccionar se despliegue en
+    una subventana.
+
+
 ## [2023-11-02]
 
 ### Added
