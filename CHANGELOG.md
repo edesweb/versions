@@ -7,6 +7,14 @@
     - Loaders
 
 
+## [2023-11-14]
+
+### Fixed
+
+    - Corrección en las exportaciones: anular el "th" del listado".
+    - Traducidos los textos de subventana en SelectMultiple.
+
+
 ## [2023-11-09]
 
 ### Added
