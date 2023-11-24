@@ -7,6 +7,15 @@
     - Loaders
 
 
+## [2023-11-24]
+
+### Fixed
+
+    - Error en la visualización de las card
+    - Traducir textos al ingles
+    - Mensaje cuando caduca la sesión
+
+
 ## [2023-11-14]
 
 ### Fixed
