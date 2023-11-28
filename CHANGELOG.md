@@ -7,6 +7,13 @@
     - Loaders
 
 
+## [2023-11-28]
+
+### Fixed
+
+    - [FieldBrowser]
+    
+
 ## [2023-11-24]
 
 ### Fixed
