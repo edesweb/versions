@@ -7,6 +7,44 @@
     - Loaders
 
 
+## [2023-12-10]
+
+### Added
+
+    - Nueva etiqueta [PointNotRem]
+
+### Fixed
+
+    - Subventana de ordenación de la columna de un listado
+    - Arreglos varios en javascript con "substr()"
+
+
+## [2023-12-08]
+
+### Added
+
+    - Nuevos atributos css
+
+### Fixed
+
+    - Etiqueta [View]
+    - Refactolizar las funciones eBar(), eShell() y eBadge()
+    - Título de subventana
+
+
+## [2023-12-05]
+
+### Added
+
+    - Poder configurar los colores del checkbox en los listados
+    - Nueva etiqueta {slFormatExe} para controlar la salida en las SubList
+    - Se carga automaticamente los ficheros externos de lenguaje
+
+### Fixed
+
+    - Chequeo en el cliente de si la sesión ha caducado
+
+
 ## [2023-11-28]
 
 ### Fixed
