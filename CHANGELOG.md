@@ -7,6 +7,35 @@
     - Loaders
 
 
+## [2024-02-03]
+
+### Added
+
+   - Incorporación de un spinner
+
+### Fixed
+
+    - Al subir ficheros en segundo plano ya no se bloquea la sesión
+    - En la barra de las utilidades cuando el listado es mas ancho que el explorador lo botones que están a la derecha ahora flotan alineados a la derecha
+    - Refactorizadas las opciones de: "Recordar clave", "Resetear clave" y "Modificar clave"
+    - Arreglago un bug en la regeneración del fichero de sesiones
+    - Añadido un atributo a la regla #PROGRESFILE
+    - Cambios en textos
+    
+
+## [2024-01-28]
+
+### Added
+
+    - Nueva gestión de la internacionalización
+
+### Fixed
+
+    - alter table mibms_desa.gs_language modify cd_gs_language varchar(5)
+    - Nueva opción de restaurar copias desde el editor
+    - Solucionado problema en la generación de xls
+
+
 ## [2023-12-10]
 
 ### Added
