@@ -7,6 +7,13 @@
     - Loaders
 
 
+## [2024-02-06]
+
+### Fixed
+
+    - Arreglo de opciones de conexión cuando hay database del sistema
+
+
 ## [2024-02-03]
 
 ### Added
@@ -21,7 +28,7 @@
     - Arreglago un bug en la regeneración del fichero de sesiones
     - Añadido un atributo a la regla #PROGRESFILE
     - Cambios en textos
-    
+
 
 ## [2024-01-28]
 
