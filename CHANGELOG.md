@@ -7,6 +7,26 @@
     - Loaders
 
 
+## [2024-02-20]
+
+### Added
+
+	- Se puede configurar si se muestran de forma distintas las filas de los listados cuando haces click.
+	- Configurable la forma de los cursores.
+	- Al mostrar el listado de conexiones o conexiones distintas si no se ha logeado el usuario mostrar texto no el nombre en blanco.
+	- Opción de poder ver los totales de los listados también en la primera fila.
+	- Opción para individualmente ver los listados divididos por columna aunque tenga la configuración general desactivado.
+	- Para los desarrolladores si en el servidor de desarrollo tienes memorizado el login y password y creas la cookie "eDesAutoRun=on" entrarás directamente en la aplicación.
+
+### Fixed
+
+	- Formato en Markdown para editar la ayuda.
+	- Entrar directamente al editor sin pasar por el desktop.
+	- La primera opción en el listado de favoritos tenía el mismo color que el fondo.
+	- En "[MaxRec] Full" en algunas circunstancias se interceptaba en la búsqueda la tecla "c" de activar la calculadora.
+	- Se ha quitado en los listados paginados al servidor las opciones de “Buscar” y “Filtrar por columna” al no tener sentido por buscar solo en la pagina actual y no en todo el listado.
+
+
 ## [2024-02-06]
 
 ### Fixed
